@@ -26,7 +26,7 @@ print("Square root of the number:",sp(a))
 ```
 
 ## Output:
-![image](https://github.com/Migaleyy/Square-root-of-a-number/assets/118262199/ed749377-7952-49bf-8c48-a04c489d6e74)
+![image](https://github.com/Migaleyy/Square-root-of-a-number/assets/118262199/413fd813-e518-4c4e-a293-521cddcca9f6)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
